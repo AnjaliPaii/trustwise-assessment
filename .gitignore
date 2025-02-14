@@ -1,0 +1,9 @@
+venv/
+.venv/
+__pycache__/
+*.db
+logs.db
+log.db
+web-ui/node_modules/
+instance/
+SELECT/
