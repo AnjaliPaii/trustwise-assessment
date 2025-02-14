@@ -16,13 +16,13 @@ git clone https://github.com/AnjaliPaii/trustwise-assessment.git
 cd trustwise-assessment
 ```
 
-2. **Create and activate a virtual environment:**:
+2. **Create and activate a virtual environment:**
 ```sh
 python3 -m venv venv
 source venv/bin/activate  # if using Windows run: venv\Scripts\activate
 ```
 
-3. **Install Dependencies:**:
+3. **Install Dependencies:**
 ```sh
 pip install -r requirements.txt
 ```
