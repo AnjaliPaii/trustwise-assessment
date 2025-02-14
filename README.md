@@ -51,7 +51,7 @@ npm run dev
 run the frontend at http://localhost:5173.
 
 ## Docker Setup (not recommended)
-The initial goal was to containerize both the **backend** and **frontend** using Docker. However, due to **issues with various dependencies**, Docker may not work properly.
+The initial goal was to containerize both the backend and frontend using Docker. However, due to issues with various dependencies, Docker may not work properly.
 
 ### If you still want to try it:
 ```sh
