@@ -27,11 +27,10 @@ source venv/bin/activate  # if using Windows run: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-4. **Run the backend:**:
+4. **Run the backend:**
 ```sh
 python app.py
 ```
-5. Backend should be running
 
 ## **Frontend (React + Vite)**
 1. **Navigate to the frontend folder:**:
