@@ -2,12 +2,8 @@
 
 This project implements a REST API that processes text using ML models to analyze gibberish and emotions. The received text and results are stored in a database and displayed in a React frontend.
 
----
-
 ## **How to Run the Project**
 Since Docker encountered issues with the frontend/backend, follow the manual setup instructions below.
-
----
 
 ## **Backend (Flask API)**
 1. **Clone the repository**:
@@ -33,12 +29,12 @@ python app.py
 ```
 
 ## **Frontend (React + Vite)**
-1. **Navigate to the frontend folder:**:
+1. **Navigate to the frontend folder:**
 ```sh
 cd web-ui
 ```
 
-2. **Install Dependencies:**:
+2. **Install Dependencies:**
 ```sh
 npm install
 ```
@@ -46,7 +42,7 @@ npm install
 ```sh
 npm run dev
 ```
-4. **Open the frontend:**:
+4. **Open the frontend:**
 run the frontend at http://localhost:5173.
 
 ## Docker Setup (not recommended)
