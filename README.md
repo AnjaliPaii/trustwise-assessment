@@ -12,8 +12,8 @@ Since Docker encountered issues with the frontend/backend, follow the manual set
 ## **Backend (Flask API)**
 1. **Clone the repository**:
 ```sh
-   git clone https://github.com/AnjaliPaii/trustwise-assessment.git
-   cd trustwise-assessment
+git clone https://github.com/AnjaliPaii/trustwise-assessment.git
+cd trustwise-assessment
 ```
 
 2. **Create and activate a virtual environment:**:
